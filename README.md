@@ -1,2 +1,2 @@
 #Fichier README.md
-Il ne contient pas grand chose pour le moment
+ Supposed to have important information
