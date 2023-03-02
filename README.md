@@ -1,2 +1,3 @@
-#Fichier README.md
- Supposed to have important information
+## Git & Github Cours
+ 
+## Practice and learning of Git & Github
