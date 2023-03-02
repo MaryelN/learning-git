@@ -1,4 +1,4 @@
-## Git & Github Course
+# Git & Github Course
  
-# Practice and learning of Git & Github from amigoscode Youtube
+## Practice and learning of Git & Github from amigoscode Youtube
 
